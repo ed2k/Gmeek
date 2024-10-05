@@ -1,0 +1,12 @@
+<tr style="color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot; !important; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-sizing: border-box;"><td align="center" style="margin: 0px; box-sizing: border-box; padding: 0px; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot; !important;"><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot; !important;">Scheduled workflows are disabled automatically after 60 days of repository inactivity.<span> </span><a href="https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow&amp;source=gmail&amp;ust=1728230364732000&amp;usg=AOvVaw2elQWDcM9W_IPh9WFookA2" style="color: rgb(3, 102, 214); background-color: transparent; box-sizing: border-box; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot; !important;">Learn more about disabling and enabling workflows.</a></p>
+ 
+--
+
+
+</td></tr>Scheduled workflows are disabled automatically after 60 days of repository inactivity. [Learn more about disabling and enabling workflows.](https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow)
+
+ 
+You can prevent build Gmeek from being disabled on the workflows page.
+
+ 
+[Manage workflow](https://github.com/ed2k/Gmeek/actions/workflows/Gmeek.yml)
